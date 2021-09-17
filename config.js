@@ -1,7 +1,7 @@
 {
 
-  "host": "151.80.177.60",
-  "port": 5000,
+  "host": "localhost",
+  "port": 5959,
 
   "keyLength": 10,
 
